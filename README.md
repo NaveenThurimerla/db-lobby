@@ -1,2 +1,2 @@
 # db-lobby
-This repository about the various db-engines certification program and self-training kit.
+This repository provides information about the various db-engines certification programs and self-training kit.
